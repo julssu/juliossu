@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  
+  body{
+      font-family: 'Poetsen uno', sans-serif;
+      font-size: 130%;
+      background-color:aliceblue;
+      }
+      header{
+        width: 100%;
+        height: fit-content;
+        display: inline-block;
+        justify-content: center;
+        background-color: chocolate;
+        color: black;
+        text-align: center;
+        font-size: 200%;
+      }
+      img{
+        width: 10%;
+
+      }
+      h2{
+        text-align: center;
+        font-family: serif;
+        font-size: 200%;
+      }
